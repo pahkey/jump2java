@@ -1,8 +1,8 @@
 package s0304;
 
-public class Sample0304_5 {
+public class Sample0304_08 {
     public static void main(String[] args) {
         String a = "Hello Java";
-        System.out.println(a.charAt(6));  // "J" 출력
+        System.out.println(a.toUpperCase());  // HELLO JAVA 출력
     }
 }

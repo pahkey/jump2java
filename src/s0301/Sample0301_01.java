@@ -1,6 +1,6 @@
 package s0301;
 
-class Sample0301_1 {
+class Sample0301_01 {
     public static void main(String[] args) {
         int a = 10;
         int b = 5;

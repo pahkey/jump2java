@@ -1,6 +1,6 @@
 package s0304;
 
-public class Sample0304_2 {
+public class Sample0304_02 {
     public static void main(String[] args) {
         String a = "hello";
         String b = new String("hello");
