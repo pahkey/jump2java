@@ -1,13 +1,10 @@
 package s0301;
 
-class Sample0301_2 {
+public class Sample0301_2 {
     public static void main(String[] args) {
-        int a = 10;
-        int b = 5;
-        System.out.println(a+b);
-        System.out.println(a-b);
-        System.out.println(a*b);
-        System.out.println(a/b);
+        System.out.println(7 % 3);  // 1 출력
+        System.out.println(3 % 7);  // 3 출력
     }
 }
+
 
